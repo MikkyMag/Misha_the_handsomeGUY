@@ -3,19 +3,20 @@ body {
     color: #778899;
     padding: 18px;
     font-family: 'Font Name', serif;
-    background-image: url("https://img2.teletype.in/files/11/83/1183e20d-4e6b-4a05-b8ed-6f1708ef5799.jpegk");
-  }
+  
+  
   
   li, p {
     font-size: 24px
   }
   img {
   float: left;
-  width: 400px
-  padding: 40px
+  width: 200px;
+  padding: 20px;
+  margin-right: 20px;
   }
   h1 {
-    font-size: 45px
+    font-size: 45px;
     color: #000000;
     text-align:center;
   }
@@ -26,12 +27,10 @@ body {
     font-size: 26px
   }
   
-  form {
-  float: left;
-  width: 200px
-  padding: 200px
-  font-size: 20px
+  .box {
+    display:flex;
+    flex-direction: row;
   }
-  header {
-    background-image: url="https://img2.teletype.in/files/11/83/1183e20d-4e6b-4a05-b8ed-6f1708ef5799.jpeg");
-  }
+.MRGA {
+  font-size: 45px 
+}
